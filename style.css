@@ -334,6 +334,40 @@ button .normal{
     background-color:rgb(5, 141, 85);
 }
 
+
+/* sm-banner */
+#sm-banner{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+#sm-banner .banner-box{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    background-image: url(img/banner/b17.jpg);
+    min-width: 680px;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+}
+#sm-banner h4{
+    color: #50915a;
+    font-size: 16px;
+}
+#sm-banner h2 {
+    color: #e8f6ea;
+    font-size: 30px;
+    padding: 10px 0;
+}
+
+
+#sm-banner button:hover{
+    color:white;
+    background-color:rgb(5, 141, 85);
+}
+
 /* newsletter */
 #newsletter{
     display: flex;
