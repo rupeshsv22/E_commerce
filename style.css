@@ -775,6 +775,16 @@ h2{
     width: 155px;
     margin: 0 0 15px 0;
 }
+
+#Product1 .pro-container {
+    justify-content: center; /* Center the products */
+}
+
+#Product1 .pro {
+    width: 100%; /* Make each product take the full width */
+    max-width: 100%; /* Ensure the product doesn't exceed the container */
+    margin: 10px 0;  /* Add space between products */
+}
 #product1 .pro{
     width: 100%;
 }
@@ -801,5 +811,20 @@ h2{
 }
 footer .copyright{
     text-align: start;
+}
+
+/* sproduct */
+#prodetails{
+    display: flex;
+    flex-direction: column;
+}
+
+#prodetails .single-pro-image{
+    width:100%;
+    margin-right: 0px;
+}
+
+#prodetails  .single-pro-details{
+width: 100%;
 }
 }
