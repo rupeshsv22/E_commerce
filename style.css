@@ -220,14 +220,14 @@ button .normal{
     text-align: center;
 }
 
-#Product1 .pro-container{
+.pro-container{
     display: flex;
     justify-content: space-between;
     padding-top:20px ;
     flex-wrap: wrap;
 }
 
-#Product1 .pro {
+.pro {
     width: 23%;
     min-width: 250px;
     padding:10px 12px;
@@ -239,42 +239,48 @@ button .normal{
     position: relative;
 }
 
-#product1 .pro:hover{
+.pro:hover{
     box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.08);
 }
 
 /* for responsiveness */
-#Product1 .pro img{
+.pro img{
     width: 100%;
     border-radius: 20px;
 }
 
-#Product1 .pro .des{
+.pro .des{
     text-align: start;
     padding:10px 0;
 
 }
 
-#Product1 .pro .des span{
+.pro .des span{
     color: #32b2b2;
     font-size: 12px;
 }
 
-#Product1 .pro .des h5{
+.pro .des h5{
     padding-top: 8px;
     color: #13191b;
     font-size:14px;
 }
-#Product1 .pro .des i{
+.pro .des i{
     font-size: 14px;
     color: burlywood;
 }
-#Product1 .pro .des h4{
+.pro .des h4{
     padding-top:8px ;
     font-size: 15px;
     font-weight: 700;
     color: rgb(49, 141, 49);
 }
+/* product2 */
+#Product2 {
+    text-align: center;
+}
+
+
 .cart{
     width: 40px;
     height: 40px;
@@ -577,7 +583,6 @@ color: #f9f7fb;
     
 }
 
-/* sproduct page- single product page */
 #prodetails{
     display: flex;
     margin-top: 20px;
@@ -587,14 +592,10 @@ color: #f9f7fb;
     margin-right: 50px;
 }
 
-.small-img-group{
-    display: flex;
-    justify-content: space-between;
-}
-
-.small-img-col{
-    flex-basis: 24%;
-    cursor: pointer;
+.single-pro-image img {
+    width: 100%;                /* Make the image responsive */
+    height: auto;               /* Maintain aspect ratio */
+    border-radius: 8px;         /* Optional: Add rounded corners to the image */
 }
 
 #prodetails  .single-pro-details{
@@ -715,12 +716,12 @@ padding: 30px;
     margin: 15px 15px;
 }
 
-#product1.pro-container{
+.pro-container{
     justify-content: center;
 }
 
 /* product */
-#product.pro{
+.pro{
     margin: 15px;
 }
 
@@ -771,23 +772,22 @@ h2{
 #feature{
     justify-content: space-around;
 }
+
 #feature .fe-box{
     width: 155px;
     margin: 0 0 15px 0;
 }
 
-#Product1 .pro-container {
+.pro-container {
     justify-content: center; /* Center the products */
 }
 
-#Product1 .pro {
+ .pro {
     width: 100%; /* Make each product take the full width */
     max-width: 100%; /* Ensure the product doesn't exceed the container */
     margin: 10px 0;  /* Add space between products */
 }
-#product1 .pro{
-    width: 100%;
-}
+
 #banner{
     height: 40vh;
 }

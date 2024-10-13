@@ -1,0 +1,180 @@
+{
+  "products": [
+    {
+      "id": "001",
+      "company": "Adidas",
+      "category": "T-Shirt",
+      "name": "Classic Basic Shirt",
+      "price": 78,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 4,
+      "image": "img/products/f1.jpg",
+      "description": "A comfortable and stylish classic basic shirt perfect for everyday wear."
+    },
+    {
+      "id": "002",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Everyday Essential Shirt",
+      "price": 22,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 5,
+      "image": "img/products/f2.jpg",
+      "description": "Your everyday essential shirt, made with premium materials for ultimate comfort."
+    },
+    {
+      "id": "003",
+      "company": "Adidas",
+      "category": "T-Shirt",
+      "name": "Classic Basic White Shirt",
+      "price": 69,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 4,
+      "image": "img/products/f3.jpg",
+      "description": "A clean and classic white shirt that pairs with anything in your wardrobe."
+    },
+    {
+      "id": "004",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/f4.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "005",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/f5.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "006",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/f6.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "007",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/f7.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "008",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/f8.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "009",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/n1.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "010",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/n2.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "011",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/n3.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "012",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/n4.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "013",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/n5.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "014",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/n6.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "015",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/n7.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    },
+    {
+      "id": "016",
+      "company": "Nike",
+      "category": "T-Shirt",
+      "name": "Classical Shirt",
+      "price": 26,
+      "sizes": ["S", "M", "L", "XL"],
+      "rating": 3,
+      "image": "img/products/n8.jpg",
+      "description": "A timeless classical shirt that brings both style and comfort to any occasion."
+    }
+  ]
+}
